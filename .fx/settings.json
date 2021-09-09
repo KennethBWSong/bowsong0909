@@ -1,0 +1,20 @@
+{
+    "appName": "bowsong0909",
+    "projectId": "2f8affea-0174-4a37-bc38-f08c17e518d1",
+    "solutionSettings": {
+        "name": "fx-solution-azure",
+        "version": "1.0.0",
+        "hostType": "Azure",
+        "capabilities": [
+            "Bot"
+        ],
+        "azureResources": [],
+        "activeResourcePlugins": [
+            "fx-resource-bot",
+            "fx-resource-aad-app-for-teams",
+            "fx-resource-local-debug",
+            "fx-resource-appstudio"
+        ]
+    },
+    "programmingLanguage": "javascript"
+}
